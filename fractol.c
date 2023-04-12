@@ -17,7 +17,7 @@ void	ft_choix_fract(void)
 	write(1, "\\\\\\\\\\\\\\\\\\\\\\ \n", 13);
 	write(1, "\1 - mandelbrot\n", 16);
 	write(1, "\2 - burnship\n", 14);
-	write(1, "\3 - julia\n", 33);
+	write(1, "\3 - julia\n", 11);
 	write(1, "\\\\\\\\\\\\\\\\\\\\\\ \n", 13);
 }
 
